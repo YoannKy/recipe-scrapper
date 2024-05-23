@@ -1,0 +1,6 @@
+[
+    name: 'your-name'
+    apiKey: 'your-api-key'
+    scripts:
+        'your-script-name': 'path-to-your-script'
+]
